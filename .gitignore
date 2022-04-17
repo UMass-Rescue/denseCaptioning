@@ -2,3 +2,5 @@
 *.swp
 /vis/data/*.jpg
 /vis/data/*.json
+imgs/
+throw.json

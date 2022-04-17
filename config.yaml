@@ -1,0 +1,5 @@
+---
+azure_storage_connnectionstring: "DefaultEndpointsProtocol=https;AccountName=densecaptioning;AccountKey=hBxmPQTqM4avU+AAgkNE9lB+VCqzDvP8TcM9tGJUdHwSSq6fAx/q/SHjrS5TUIOPHsZ5pt+ZQGkd+AStvEnrRw==;EndpointSuffix=core.windows.net"
+pictures_container_name: "imagescap"
+source_folder: "/home/chaoticmonkey/Desktop/Rescue/DenseCap/densecap/imgs"
+direct_folder: "/home/chaoticmonkey/Desktop/Rescue/DenseCap/densecap/imgs"
