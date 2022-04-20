@@ -14,7 +14,7 @@ Processing images and videos collected from public CCTV, doorbell cameras, etc. 
 
 The model detects objects in images and describes them in natural language, which we call captions. Here are a few example outputs:
 
-<!-- <img src='imgs/resultsfig.png'> -->
+<img src='imgs/resultsfig.png'>
 
 
 ## Tech Stack
@@ -75,15 +75,15 @@ python frontend.py
 
 and go to http://127.0.0.1:5000/ on your web browser. You should see the following:
 
-<img src='imgs/frontendFirst.png'>
+<img src='imgs/frontendFirst.jpeg'>
 
 Click on *Choose File*, which will open a window. Select the image(s) that you wish to process:
 
-<img src='imgs/frontendSecond.png'>
+<img src='imgs/frontendSecond.jpeg'>
 
 Once the processing is complete, click on *View Results!*, where you can see the results on your browser similar to this:
 
-<img src='imgs/frontendThird.png'>
+<img src='imgs/frontendThird.jpeg'>
 
 *Fewer Detections (s)* and *More detections (w)* can be used to reduce or increase the number of captions displayed on the image. The color of the captions correlate to where in the image the object can be found. For example, the car bounded by the grey box has the caption *a white car parked on the street*. The captions are written in descending order of how confident the model is about a particular caption. Depending on the complexity of the image, it is advised to look at the first 25 captions to make sure no discernable object is omitted from queries.
 
