@@ -2,12 +2,6 @@
 
 ## Motivation
 
-Human transcription of audio files takes time and uses resources that could be allocated to other tasks.
-By automating the process of transcribing audio files, resources will be free to do more analytical tasks to 
-help quickly solve cases.  Additionally, the data structure which stores the transcription will be easy to navigate and 
-provide analytics like when times and places are seen in the interview.  This will make it easier for those working on 
-the case to see patterns and search for text.
-
 Processing images and videos collected from public CCTV, doorbell cameras, etc. is a crucial part of an investigation that can help in tasks such as creating a timeline of events. In missing persons investigations, the speed at which the evidence is processed in the first few hours and days is critical. By automating processing the media, storing it in smart, queryable databases, personnel time and resources can be freed up to other tasks and investigations can be accelerated. With that direction, this project is aimed at creating image captions (videos can be seen as a series of images) and store them to be queried.
 
 ## Features
